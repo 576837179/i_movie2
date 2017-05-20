@@ -1,0 +1,25 @@
+{
+  "name": "i_movie2",
+  "description": "i_movie2 movie",
+  "main": "",
+  "keywords": [
+    "i_movie2"
+  ],
+  "authors": [
+    "Leo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

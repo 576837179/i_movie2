@@ -1,0 +1,42 @@
+{
+  "name": "i_movie2",
+  "version": "1.0.1",
+  "description": "i_movie2 movie",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.3",
+    "crypto": "0.0.3",
+    "express": "~4.15.2",
+    "express-session": "^1.15.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "jade": "~1.11.0",
+    "mocha": "^3.4.1",
+    "monent": "~2.18.1",
+    "mongoose": "~4.9.5",
+    "morgan": "^1.8.1",
+    "should": "^11.2.1",
+    "undescore": "~1.8.3"
+  },
+  "devDependencies": {
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "grunt-nodemon": "^0.4.2",
+    "mongoose": "^4.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i_movie2",
+    "movie"
+  ],
+  "author": "Leo",
+  "license": "ISC"
+}
