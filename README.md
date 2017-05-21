@@ -119,7 +119,7 @@
 ```
 项目整体效果
 -------
-![](https://github.com/leo/movie_node-mongo/raw/master/img/index.gif)
+![](https://github.com/leo/i_movie2/raw/master/img/index.jpg)
 
 后期完善:
 -------
