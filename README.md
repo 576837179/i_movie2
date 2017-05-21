@@ -128,6 +128,14 @@
 ![](https://github.com/576837179/i_movie2/raw/master/img/admin_category_new.jpg)
 ![](https://github.com/576837179/i_movie2/raw/master/img/admin_category_list.jpg)
 
+MongoDB操作:
+-------
+mongo->use i_movie2->show tables-><br>
+db.users.find().pretty()  找到数据<br>
+db.movies.update({id}, {$set: {role: 51}}).pretty()  更新数据<br>
+db.sessions.remove({})  删除单条数据<br>
+db.categories.drop()  删除数据集<br>
+
 后期完善:
 -------
 1. 完善网站功能;
