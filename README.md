@@ -119,7 +119,16 @@
 ```
 项目整体效果
 -------
-![](https://github.com/leo/i_movie2/raw/master/img/index.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/index.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/detail.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/results.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/signup.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/signin.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/user_list.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/admin_movie_new.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/admin_movie_list.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/admin_category_new.jpg)
+![](https://github.com/576837179/i_movie2/raw/master/img/admin_category_list.jpg)
 
 后期完善:
 -------
