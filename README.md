@@ -105,8 +105,6 @@
 │   │   ├── bootstrap
 │   │   └── jquery
 │   └── upload        用户自定义上传图片存储目录
-│       ├── movie
-│       └── music
 ├── config             路由目录
 │   └── router.js
 ├── test              测试文件目录
@@ -114,7 +112,7 @@
 │       └── user.js
 ├── img
 ├── README.md
-├── gruntfile.js       grunt文件
+├── gruntfile.js       grunt配置文件
 └── package.json
 ```
 项目整体效果
