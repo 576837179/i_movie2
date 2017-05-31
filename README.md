@@ -1,4 +1,4 @@
-基于NodeJs+MongoDB+jQuery搭建的豆瓣电影网站
+基于NodeJs+MongoDB+jQuery+Jade搭建的豆瓣电影网站
 ========================================
 
 使用jade作为动态模板，bootstrap样式，实现了：
