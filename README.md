@@ -128,6 +128,22 @@
 ![](https://github.com/576837179/i_movie2/raw/master/img/admin_category_new.jpg)
 ![](https://github.com/576837179/i_movie2/raw/master/img/admin_category_list.jpg)
 
+修改CDM路径：
+-------
+regedit -> HKEY_CURRENT_USER\Software\Microsoft\CommandProcessor -> 新建字符串值，命名AutoRun -> cd /d E:\mongodb\bin
+
+创建MongoDB服务：
+-------
+E:\mongodb\bin> sc create MongoDB binPath= "E:\mongodb\bin\mongod.exe --service --dbpath E:\mongodb\data\db --logpath=E:\mongodb\data\log\MongoDB.log  --logappend"
+
+net start MongnoDB
+net stop MongnoDB
+
+访问网站：
+-------
+E:\nodejs\www\i_movie2> node app
+localhost:3000
+
 MongoDB操作:
 -------
 mongo->use i_movie2->show tables-><br>
