@@ -134,15 +134,15 @@ regedit -> HKEY_CURRENT_USER\Software\Microsoft\CommandProcessor -> 新建字符
 
 创建MongoDB服务：
 -------
-E:\mongodb\bin> sc create MongoDB binPath= "E:\mongodb\bin\mongod.exe --service --dbpath E:\mongodb\data\db --logpath=E:\mongodb\data\log\MongoDB.log  --logappend"
+E:\mongodb\bin> sc create MongoDB binPath= "E:\mongodb\bin\mongod.exe --service --dbpath E:\mongodb\data\db --logpath=E:\mongodb\data\log\MongoDB.log  --logappend"<br>
 
-net start MongnoDB
-net stop MongnoDB
+net start MongnoDB<br>
+net stop MongnoDB<br>
 
 访问网站：
 -------
-E:\nodejs\www\i_movie2> node app
-localhost:3000
+E:\nodejs\www\i_movie2> node app<br>
+localhost:3000<br>
 
 MongoDB操作:
 -------
